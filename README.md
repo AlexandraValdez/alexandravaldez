@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [mdLinks](https://github.com/AlexandraValdez/md-links)  
   
 
-- 🌱 I’m currently learning React and French   
+- 🌱 I’m currently learning **React and French**   
   
 
 - ❓ Ask me about anything and everything! I am happy to help :)  
@@ -101,7 +101,7 @@
 ### UX | UI  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="50" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="50" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 </div>
@@ -112,7 +112,7 @@
 
 
 ## Spotify Listening  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />   
 
 <br/>  
 
