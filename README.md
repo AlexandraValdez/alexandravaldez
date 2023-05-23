@@ -65,7 +65,7 @@
 </div>
 
 ## My Skill Set  
-<table><tr ><td style=border:none valign="top" width="33%">
+<table><tr ><td style="border:none" valign="top" width="33%">
 
 
 
@@ -80,7 +80,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" style=border:none width="33%">
+</td><td valign="top" style="border:none" width="33%">
 
 
 
@@ -94,7 +94,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" style=border:none width="33%">
+</td><td valign="top" style="border:none" width="33%">
 
 
 
