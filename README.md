@@ -38,7 +38,7 @@
   </div>
   
   </div>
-  <div style="flex: 1; padding: 0 10px;">
+  <div style="flex: 1; padding: 0 10px; border-right: none;">
   
   ### Backend
   <div align="center">
