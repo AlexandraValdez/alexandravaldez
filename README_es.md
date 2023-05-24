@@ -82,6 +82,6 @@
 <p align="left"> <a href="https://www.github.com/AlexandraValdez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="50" /></a> <a href="https://www.linkedin.com/in/alexandravaldezs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="50" /></a></p>
 
 
-### Invitame un café!
+### Invitame un café ;)
 
 <a href="https://www.buymeacoffee.com/alexandrav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
