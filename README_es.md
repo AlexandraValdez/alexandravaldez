@@ -1,19 +1,14 @@
 
-<h1 align="left">Hi 👋, I'm Alexandra a full-time front-end developer🧠🚀</h1>
+<h1 align="center">Hi 👋, I'm Alexandra a full-time front-end developer🧠🚀</h1>
 
 
-<table align="right">
- <tr><td> <a href="README.md"><img src="./images/usa.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="./images/esp.png" height="8.5"> :es: Spanish</a></td></tr>
-</td></tr>
-</table>
 
   
 
 - 🔭 I’m currently working on [mdLinks](https://github.com/AlexandraValdez/md-links)  
   
 
-- 🌱 I’m currently learning **React and French**
+- 🌱 I’m currently learning **React and French**   
   
 
 - ❓ Ask me about anything and everything! I am happy to help :)  
