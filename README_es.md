@@ -1,27 +1,32 @@
 
-<h1 align="center">Hi 👋, I'm Alexandra a full-time front-end developer🧠🚀</h1>
+<h1 align="center">Hola 👋, Soy Alexandra! Desarrolladora front-end a tiempo completo 🧠🚀</h1>
 
 
+<table align="right">
+ <tr><td> <a href="README.md"><img src="./images/usa.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img style="margin: 0px 0px 2px 0px" src="./images/esp.png" height="8.5"> Español</a></td></tr>
+</td></tr>
+</table>
 
   
 
-- 🔭 I’m currently working on [mdLinks](https://github.com/AlexandraValdez/md-links)  
+- 🔭 Actualmente estoy trabajando en [mdLinks](https://github.com/AlexandraValdez/md-links)  
   
 
-- 🌱 I’m currently learning **React and French**   
+- 🌱 Estoy aprendiendo **React y Frances**   
   
 
-- ❓ Ask me about anything and everything! I am happy to help :)  
+- ❓ Siéntete libre de preguntarme cualquier cosa! Me gusta ayudar :)  
   
 
-- ⚡ Fun fact: I'm a music enthusiast and play the guitar. Whenever I hit a coding roadblock, strumming a few chords helps me find the right rhythm to get back on track
+- ⚡ Dato curioso: Me encanta la musica y toco la guitarra.
   
   
 
 <br/>  
 
 
-## My Skill Set
+## Habilidades
 
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -68,17 +73,15 @@
 <br/>  
 
 
-## Spotify Listening  
+## Estoy escuchando 🎧 ...  
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />   
 
-<br/>  
 
-
-### Socials
+### Ecuentrame en
 
 <p align="left"> <a href="https://www.github.com/AlexandraValdez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="50" /></a> <a href="https://www.linkedin.com/in/alexandravaldezs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="50" /></a></p>
 
 
-### Support Me
+### Invitame un café!
 
 <a href="https://www.buymeacoffee.com/alexandrav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

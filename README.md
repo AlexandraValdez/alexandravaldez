@@ -1,10 +1,10 @@
 
-<h1 align="left">Hi 👋, I'm Alexandra a full-time front-end developer🧠🚀</h1>
+<h1 align="left">Hi 👋, I'm Alexandra a full-time front-end developer 🧠🚀</h1>
 
 
 <table align="right">
  <tr><td> <a href="README.md"><img src="./images/usa.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="./images/esp.png" height="8.5"> :es: Spanish</a></td></tr>
+ <tr><td><a href="README_es.md"><img style="margin: 0px 0px 2px 0px" src="./images/esp.png" height="8.5"> Español</a></td></tr>
 </td></tr>
 </table>
 
@@ -75,8 +75,6 @@
 
 ## Spotify Listening  
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />   
-
-<br/>  
 
 
 ### Socials
