@@ -10,13 +10,13 @@
 
   
 
-- 🔭 I’m currently working on [mdLinks](https://github.com/AlexandraValdez/md-links)  
+- 🔭 I’m currently working on [Five Guys API client](https://github.com/AlexandraValdez/BG)  
   
 
-- 🌱 I’m currently learning **React and French**
+- 🌱 I’m currently mastering **React and French**
   
 
-- ❓ Ask me about anything and everything! I am happy to help :)  
+- ❓ Ask me about anything and everything! I'm happy to help :)  
   
 
 - ⚡ Fun fact: I'm a music enthusiast and play the guitar. Whenever I hit a coding roadblock, strumming a few chords helps me find the right rhythm to get back on track
