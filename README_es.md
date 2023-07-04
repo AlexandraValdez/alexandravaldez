@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, Soy Alexandra! Desarrolladora front-end a tiempo completo 🧠🚀</h1>
+<h1 align="center">Hola 👋, Soy Alexandra! Desarrolladora front-end 🧠🚀</h1>
 
 
 <table align="right">
