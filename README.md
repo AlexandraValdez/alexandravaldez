@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Alexandra a front-end developer 🧠🚀</h1>
+<h1 align="left">Hi 👋, I'm Alexandra 🧠🚀</h1>
 
 
 <table align="right">
