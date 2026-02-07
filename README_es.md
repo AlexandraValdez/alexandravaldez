@@ -70,8 +70,7 @@
 
 
 ## Estoy escuchando 🎧 ...  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />   
-
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 50%" /> 
 
 ### Ecuentrame en
 
