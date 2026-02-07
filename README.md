@@ -70,8 +70,7 @@
 
 
 ## Spotify Listening  
-[![spotify-github-profile](https://spotify-github-profile.alevs311.com/api/view?uid=alevs311&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=alevs311&redirect=true)
-
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=alevs311&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" /> 
 
 ### Socials
 
