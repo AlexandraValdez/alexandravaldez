@@ -19,10 +19,6 @@
 - ❓ Siéntete libre de preguntarme cualquier cosa! Me gusta ayudar :)  
   
 
-- ⚡ Dato curioso: Me encanta la musica y toco la guitarra.
-  
-  
-
 <br/>  
 
 
