@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Talent Arena 365 APP](https://github.com/AlexandraValdez/talent-arena-app)  
   
 
-- 🌱 I’m currently mastering **React and French**
+- 🌱 Currently mastering **AI and French**
   
 
 - ❓ Ask me about anything and everything! I'm happy to help :)    
