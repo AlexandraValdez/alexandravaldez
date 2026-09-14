@@ -13,7 +13,7 @@
 - 🔭 Actualmente estoy trabajando en [mdLinks](https://github.com/AlexandraValdez/md-links)  
   
 
-- 🌱 Estoy aprendiendo **React y Frances**   
+- 🌱 Estoy aprendiendo **IA y Frances**   
   
 
 - ❓ Siéntete libre de preguntarme cualquier cosa! Me gusta ayudar :)  
